@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="20C5048k" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AppBreathingData" representedClassName="AppBreathingData" syncable="YES" codeGenerationType="class">
+        <attribute name="dateappisopened" optional="YES" attributeType="String"/>
+        <attribute name="quoteoftheday" optional="YES" attributeType="String"/>
+        <attribute name="timecompletedpd" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="AppBreathingData" positionX="8910" positionY="10233" width="128" height="74"/>
+    </elements>
+</model>
