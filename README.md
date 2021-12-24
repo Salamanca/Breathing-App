@@ -1,4 +1,4 @@
-# Breathing-App
+# Breathing App
 iOS App that helps you breath properly.
 
 I created this iOS app in my Intro to iOS Develepmont class at Hunter College.
