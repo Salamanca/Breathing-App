@@ -12,8 +12,7 @@ An example of the app can be previewed below.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31402721/147319569-3eb89c58-9a1f-467b-bb29-5eedf397f7b1.png" alt="Landing Page">
   <img src="https://user-images.githubusercontent.com/31402721/147319582-d1021f56-ce31-4c36-a55f-870bdce99c06.png" alt="Landing Page">
-  ![Breathing App Landing Page Smaller](https://user-images.githubusercontent.com/31402721/147319569-3eb89c58-9a1f-467b-bb29-5eedf397f7b1.png)
-  ![Breathing App Start Page Smaller]()
+<p>
+
   ![Breathing App Daily Quote](https://user-images.githubusercontent.com/31402721/147318913-cefebb99-110b-4b39-9b1d-d8acdf5a05b0.png)
   ![Breathing App History](https://user-images.githubusercontent.com/31402721/147318922-712bd6ef-5edd-4329-a16b-630b51412ee0.png)
- <p>
